@@ -1,0 +1,2 @@
+D:\Selenium Csharp\Waits_In_Selenium_Csharp\Waits_In_Selenium_Csharp\obj\Debug\Waits_In_Selenium_Csharp.csprojAssemblyReference.cache
+D:\Selenium Csharp\Waits_In_Selenium_Csharp\Waits_In_Selenium_Csharp\obj\Debug\Waits_In_Selenium_Csharp.csproj.CoreCompileInputs.cache
